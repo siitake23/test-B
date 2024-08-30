@@ -154,12 +154,12 @@
         "PLUM_9": "#ffffff",
         "PLUM_10": "#A4A4A4",
         "PLUM_11": "#000000",
-        "PLUM_13": "#4C6396",
-        "PLUM_17": "#CA1BB6",
-        "PLUM_18": "#CA1BB6",
+        "PLUM_13": "#CA1BB6",
+        "PLUM_17": "#ffffff",
+        "PLUM_18": "#ffffff",
         "PLUM_19": "#EA008E",
-        "PLUM_20": "#CA1BB6",
-        "PLUM_22": "#CA1BB6",
+        "PLUM_20": "#ffffff",
+        "PLUM_22": "#ffffff",
         "PLUM_24": "#EA008E",
         "BRAND_260": "#F2A0EB",
         "BRAND_360": "#F2A0EB",
@@ -175,7 +175,7 @@
     
     "background": {
         "blur": 0.2,
-        "url": "https://imgur.com/a/mom-flhBr99",
+        "url": "https://files.catbox.moe/hpv2mr.jpg",
         "alpha": 0.7
     },
         "color": "#EA42CD"
