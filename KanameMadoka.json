@@ -20,7 +20,7 @@
             "#FF007F"
         ],
         "TEXT_NORMAL": [
-            "#FFC1FF"
+            "#000000"
         ],
         "TEXT_PRIMARY": [
             "#FFC1FF"
@@ -122,7 +122,7 @@
             "#000000"
         ],
         "CARD_PRIMARY_BG": [
-            "#f5b2b2"
+            "#242424"
         ],
         "CARD_SECONDARY_BG": [
             "#222222"
