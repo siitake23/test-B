@@ -74,13 +74,13 @@
             "#F2A0EB"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#141414"
+            "#f5b2b2"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#141414"
+            "#f5b2b2"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#141414"
+            "#f5b2b2"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#222222"
@@ -116,19 +116,19 @@
             "#F2A0EB"
         ],
         "CHAT_BACKGROUND": [
-            "#141414"
+            "#f5b2b2"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#000000"
         ],
         "CARD_PRIMARY_BG": [
-            "#141414"
+            "#f5b2b2"
         ],
         "CARD_SECONDARY_BG": [
             "#222222"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#141414"
+            "#f5b2b2"
         ],
         "BG_BACKDROP": [
             "04010173"
@@ -153,7 +153,7 @@
         "PLUM_6": "#CA66EA",
         "PLUM_9": "#ffffff",
         "PLUM_10": "#A4A4A4",
-        "PLUM_11": "#000000",
+        "PLUM_11": "#f5b2b2",
         "PLUM_13": "#CA1BB6",
         "PLUM_17": "#000000",
         "PLUM_18": "#000000",
