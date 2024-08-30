@@ -20,7 +20,7 @@
             "#FF007F"
         ],
         "TEXT_NORMAL": [
-            "#000000"
+            "#ffffff"
         ],
         "TEXT_PRIMARY": [
             "#FFC1FF"
@@ -41,10 +41,10 @@
             "#FFC1FF"
         ],
         "BACKGROUND_PRIMARY": [
-            "#242424"
+            "#CA1BB6"
         ],
         "BACKGROUND_SECONDARY": [
-            "#242424"
+            "#CA1BB6"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#242424"
