@@ -116,7 +116,7 @@
             "#F2A0EB"
         ],
         "CHAT_BACKGROUND": [
-            "#f5b2b2"
+            "#000000"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#000000"
@@ -128,7 +128,7 @@
             "#222222"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#f5b2b2"
+            "#000000"
         ],
         "BG_BACKDROP": [
             "04010173"
