@@ -20,7 +20,7 @@
             "#FF007F"
         ],
         "TEXT_NORMAL": [
-            "#ffffff"
+            "#000000"
         ],
         "TEXT_PRIMARY": [
             "#FFC1FF"
@@ -50,7 +50,7 @@
             "#242424"
         ],
         "BACKGROUND_TERTIARY": [
-            "#242424"
+            "#525252"
         ],
         "BACKGROUND_ACCENT": [
             "#242424"
@@ -62,7 +62,7 @@
             "#242424"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#242424"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#F2A0EB"
@@ -83,7 +83,7 @@
             "#f5b2b2"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#222222"
+            "#242424"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#F2A0EB"
