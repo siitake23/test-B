@@ -20,7 +20,7 @@
             "#FF007F"
         ],
         "TEXT_NORMAL": [
-            "#000000"
+            "#fff1ff"
         ],
         "TEXT_PRIMARY": [
             "#FFC1FF"
@@ -29,7 +29,7 @@
             "#FF007F"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FFC1FF"
+            "#ff07af"
         ],
         "INTERACTIVE_HOVER": [
             "#FFC1FF"
