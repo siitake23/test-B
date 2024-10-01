@@ -1,0 +1,7 @@
+-- Test Guis
+
+Title = Instance.new("TextLabel")
+Button = Instance.new("TextButton")
+
+Title.name = Title
+Title.
