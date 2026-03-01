@@ -60,7 +60,7 @@
       "#202020"
     ],
     "STATUS_ONLINE": [
-      "#48bc46"
+      "#faab1e"
     ],
     "STATUS_POSITIVE": [
       "#000000"
@@ -90,7 +90,7 @@
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#009AFF"
+      "#eb6660"
     ],
     "TEXT_LINK_LOW_SATURATION": [
       "#6d82ff"
@@ -216,7 +216,7 @@
     "YELLOW_630": "#FFFFFF",
     "YELLOW_660": "#FFFFFF",
     "YELLOW_700": "#FFFFFF",
-    "RED_430": "#009AFF",
+    "RED_430": "#ff0007",
     "PLUM_14": "#222222",
     "PRIMARY_800": "#222222",
     "PLUM_1": "#FFFFFF",
@@ -246,6 +246,6 @@
     "iconpack": "solar"
   },
   "spec": 2,
-  "createdAt": "2025-10-05",
+  "createdAt": "2026-03-02",
   "source": "local"
 }
