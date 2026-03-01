@@ -156,10 +156,10 @@
       "#FF0000"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#000000"
+      "#FF0000"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#000000"
+      "#FF0000"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "#FFFFFF"
@@ -188,13 +188,13 @@
     "BRAND_500": "#121212",
     "ORANGE_260": "#FFFFFF",
     "ORANGE_300": "#FFFFFF",
-    "ORANGE_330": "#FFFFFF",
+    "ORANGE_330": "#FF0000",
     "ORANGE_345": "#FFFFFF",
     "ORANGE_360": "#FFFFFF",
     "ORANGE_400": "#FFFFFF",
     "ORANGE_430": "#FFFFFF",
     "ORANGE_460": "#FFFFFF",
-    "ORANGE_500": "#FFFFFF",
+    "ORANGE_500": "#FF0000",
     "ORANGE_530": "#FFFFFF",
     "ORANGE_560": "#FFFFFF",
     "ORANGE_600": "#FFFFFF",
@@ -219,11 +219,11 @@
     "RED_430": "#ff0007",
     "PLUM_14": "#222222",
     "PRIMARY_800": "#222222",
-    "PLUM_1": "#FFFFFF",
+    "PLUM_1": "#FF0000",
     "PLUM_22": "#000000",
-    "PRIMARY_660": "#000000",
+    "PRIMARY_660": "#FF0000",
     "PRIMARY_700": "#000000",
-    "PRIMARY_560": "#000000",
+    "PRIMARY_560": "#FF0000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
     "PLUM_15": "#121212",
