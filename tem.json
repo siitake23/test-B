@@ -126,13 +126,13 @@
       "#000000"
     ],
     "THREAD_CHANNEL_SPINE": [
-      "#FFFFFF"
+      "#ac400c"
     ],
     "TOAST_BG": [
       "#000000"
     ],
     "TYPING_INDICATOR_BG": [
-      "#000000"
+      "#ac400c"
     ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
       "#000000"
@@ -147,7 +147,7 @@
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#FFFFFF"
+      "#b11b2e"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "#000000"
