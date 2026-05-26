@@ -227,12 +227,12 @@
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
     "PLUM_15": "#121212",
-    "PLUM_17": "#191970",
+    "PLUM_17": "#000000",
     "PLUM_18": "#000000",
     "PLUM_19": "#000000",
     "PLUM_20": "#000000",
     "PLUM_23": "#7d0707",
-    "PLUM_24": "#000000"
+    "PLUM_24": "#191970"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/siitake23/test-B/refs/heads/main/IMG_0346.jpeg",
