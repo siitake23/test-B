@@ -188,8 +188,10 @@
   },
   "background": {
     "url": "https://imgur.com/gallery/image-yKU0Sfc",
-    "blur": 0.25,
-    "alpha": 0.25
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
   },
   "plus": {
     "version": "0",
