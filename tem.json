@@ -54,16 +54,16 @@
       "#db1f6c"
     ],
     "HEADER_PRIMARY": [
-      "#e0def4"
+      "#f2929f"
     ],
     "HEADER_SECONDARY": [
-      "#e0def4"
+      "#f2929f"
     ],
     "HOME_BACKGROUND": [
       "#db1f6c"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#e0def4"
+      "#f2929f"
     ],
     "INTERACTIVE_HOVER": [
       "#403d52"
@@ -132,7 +132,7 @@
     "GUILD_BOOSTING_PINK": "#c8194a",
     "GUILD_BOOSTING_PURPLE": "#c4a7e7",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
-    "PRIMARY_100": "#e0def4",
+    "PRIMARY_100": "#f2929f",
     "PRIMARY_300": "#1a58a3",
     "PRIMARY_360": "#ebbcba",
     "PRIMARY_400": "#ebbcba",
@@ -184,12 +184,12 @@
     "YELLOW_830": "#ee4649",
     "YELLOW_860": "#ee4649",
     "YELLOW_900": "#ee4649",
-    "WHITE_500": "#e0def4"
+    "WHITE_500": "#f2929f"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/siitake23/test-B/refs/heads/main/IMG_0346.jpeg",
-    "blur": 0.25,
-    "alpha": 0.25,
+    "blur": 0.1,
+    "alpha": 0.1,
     "size": "cover",
     "position": "center"
   },
