@@ -188,9 +188,9 @@
   },
   "background": {
     "url": "https://raw.githubusercontent.com/siitake23/test-B/refs/heads/main/IMG_0346.jpeg",
+    "alpha": "0.1",
     "size": "cover",
-    "position": "center",
-    "blur": "0.1"
+    "position": "center"
   },
   "plus": {
     "version": "0",
