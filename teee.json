@@ -185,14 +185,13 @@
     "YELLOW_860": "#ee4649",
     "YELLOW_900": "#ee4649",
     "WHITE_500": "#f2929f"
-  },
-  "background": {
-    "url": "https://github.com/siitake23/test-B/blob/main/IMG_0346.jpeg",
-    "size": "cover",
-    "position": "center",
-    "blur": 0.1,
-    "alpha": 0.1
-  },
+     },
+    
+    "background": {
+        "blur": 0.5,
+        "url": "https://github.com/VodkaXMartini/images/blob/main/INFINITY2.jpg?raw=true",
+        "alpha": 0.7
+        },
   "plus": {
     "version": "0",
     "unreadBadgeColor": "#908caa",
