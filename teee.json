@@ -189,7 +189,9 @@
   "background": {
     "url": "https://github.com/siitake23/test-B/blob/main/IMG_0346.jpeg",
     "size": "cover",
-    "position": "center"
+    "position": "center",
+    "blur": 0.1,
+    "alpha": 0.1
   },
   "plus": {
     "version": "0",
