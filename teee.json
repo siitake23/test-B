@@ -205,6 +205,8 @@
       "StatusOffline": "#908caa",
       "StatusOnline": "#93bfb3"
     },
+},
+     {
   "spec": 2,
   "createdAt": "2026-03-02",
   "source": "local"
